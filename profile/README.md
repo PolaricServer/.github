@@ -1,3 +1,2 @@
 # .github
-
-![Polaric](https://sarhack.no/img/polaric.png)
+<img src="https://sarhack.no/img/polaric.png" width="50%">
