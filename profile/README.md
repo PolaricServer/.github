@@ -1,1 +1,1 @@
-<img src="https://sarhack.no/img/polaric.png" width="30%">
+<img src="https://sarhack.no/img/screen.png" width="60%">
